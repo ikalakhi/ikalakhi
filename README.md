@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ikalakhi
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning c languge and basics about Blockchain and solidity languge
-- 💞️ I’m looking to collaborate on any project about Blockchain
-- 📫 you can reach me by send me an email
+## Hi there, I'm Imrane Kalakhi [Iklakhi] 👋 
 
-<!---
-ikalakhi/ikalakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://badge.mediaplus.ma/darkgray/ikalakhi)
+
+
+[![ikalakhi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikalakhi&show_icons=true&theme=radical)](https://github.com/ikalakhi)
+
+[![ikalakhi Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalakhi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/ikalakhi)
+![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ikalakhi.svg?style=social&label=Follow%20%40ikalakhi)
