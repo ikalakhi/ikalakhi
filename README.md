@@ -1,4 +1,4 @@
-## Hi there, I'm Imrane Kalakhi [Iklakhi] 👋 
+## Hi there, I'm Imrane Kalakhi [iklakhi] 👋 
 
 
 ![](https://badge.mediaplus.ma/darkgray/ikalakhi)
