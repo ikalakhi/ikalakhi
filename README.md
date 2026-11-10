@@ -69,7 +69,7 @@ const imrane = {
 
 ## 🚀 Current Focus
 
-- 🔭 Building **[Aura Prestige Tech](https://auraprestigetech.com)**
+- 🔭 Building **[Aura Prestige Tech](https://www.kazanbodyparts.ma)**
 - 📱 Deepening my skills in **React Native**
 - 💡 All projects live at **[imrane.me](https://imrane.me)**
 
