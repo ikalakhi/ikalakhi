@@ -22,7 +22,7 @@
 ```ts
 const imrane = {
   location: "Morocco 🇲🇦",
-  currentProject: "auraprestigetech.com",
+  currentProject: "kazanbodyparts.com",
   learning: ["React Native", "TypeScript patterns"],
   askMeAbout: ["MERN Stack", "React", "Node.js"],
   funFact: "I write C just for fun 😄",
